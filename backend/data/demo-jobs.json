@@ -1,0 +1,16 @@
+[
+  {
+    "jobId": "1",
+    "price": "0.05",
+    "title": "Image embedding",
+    "task": "Embed a 224px image and return the first 8 floats.",
+    "expected": "0.12,0.44,0.03,0.91,0.18,0.07,0.55,0.22"
+  },
+  {
+    "jobId": "2",
+    "price": "0.1",
+    "title": "Log reduce",
+    "task": "Count error lines in the node log and return the integer.",
+    "expected": "17"
+  }
+]
